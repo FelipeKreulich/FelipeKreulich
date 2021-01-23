@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello Devs👨🏻‍💻
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e479b9574256943971f7bcb98f3fd3f80affb95036f&rid=giphy.gif" width="500"/>
+  
+Hello Devs🙋🏼‍♂️, my name is Felipe, I am from Brazil 🇧🇷, I am currently studying Full-Stack development 📚 and soon I will start studying Computer Science 💻, I have always been passionate about the computer area, I hope you like my profile.💜
 
-<!--
-**FelipeKreulich/FelipeKreulich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 "I am happy, because I accept who I was in the past, I like who I am in the present and I fight to be even better in the future." 🌍
 
-Here are some ideas to get you started:
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeKreulich&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Felipe Kreulich's Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeKreulich&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FelipeKreulich)
+<br>
+### ⠀⠀⠀⠀⠀⠀⠀⠀Talk to me 👇🏻
+<p align="left">
+&nbsp; <a href="https://twitter.com/FelipeKreulich" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="100"/></a>
+&nbsp; <a href="https://www.instagram.com/_kreulich/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>  
+&nbsp; <a href="mailto:felipek2002k@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+</p>
