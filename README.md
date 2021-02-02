@@ -1,5 +1,5 @@
 # Hello Devs👨🏻‍💻
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="300"/>
   
 Hello Devs🙋🏼‍♂️, my name is Felipe, I am from Brazil 🇧🇷, I am currently studying Full-Stack development 📚 and soon I will start studying Computer Science 💻, I have always been passionate about the computer area, I hope you like my profile.💜
 
