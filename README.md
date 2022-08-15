@@ -1,7 +1,7 @@
 # Hello Devs👨🏻‍💻
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100"/>
   
-Hello Devs🙋🏼‍♂️, my name is Felipe, I am from Brazil 🇧🇷, I am currently studying Full-Stack development 📚, I have always been passionate about the computer area, I hope you like my profile.💜
+Hello 🙋‍♂️, my name is Felipe, I'm 20 years old, passionate about programming and all IT-related culture 🖤, I'm currently studying Systems Analysis and Development 📚, I hope you like my projects and profile. ✅
 
 ### 🚀 "I am happy, because I accept who I was in the past, I like who I am in the present and I fight to be even better in the future." 🌍
 
