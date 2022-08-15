@@ -1,9 +1,10 @@
 # Hello Devs👨🏻‍💻
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150"/>
   
 Hello 🙋‍♂️, my name is Felipe, I'm 20 years old, passionate about programming and all IT-related culture 🖤, I'm currently studying Systems Analysis and Development 📚, I hope you like my projects and profile. ✅
 
 ### 🚀 "I am happy, because I accept who I was in the past, I like who I am in the present and I fight to be even better in the future." 🌍
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150"/>
 
 <br>
 <br>
