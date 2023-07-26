@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipekreulich" alt="felipekreulich" /></a> </p>
 
-- 🔭 I’m currently working on [Github Finder](https://github.com/FelipeKreulich/githubfinder)
+- 🔭 I’m currently working on [Gestão de Ordem de Serviço](https://github.com/FelipeKreulich/gestao-os)
 
 - 🌱 I’m currently learning **ReactJS**
 
