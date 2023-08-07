@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipekreulich" alt="felipekreulich" /></a> </p>
 
-- 🔭 I’m currently working on [Gestão de Ordem de Serviço](https://github.com/FelipeKreulich/gestao-os)
+- 🔭 I’m currently working on [NULL](https://github.com/FelipeKreulich/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FelipeKreulich?tab=repositories](https://github.com/FelipeKreulich?tab=repositories)
 
