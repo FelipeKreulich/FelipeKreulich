@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipekreulich" alt="felipekreulich" /></a> </p>
 
-- 🔭 I’m currently working on [ToDoList](https://github.com/FelipeKreulich/todolist-fullstack/)
+- 🔭 I’m currently working on [Blog Coding Everday](https://github.com/FelipeKreulich/blogcodingeverday/)
 
 - 🌱 I’m currently learning **ReactJS**
 
