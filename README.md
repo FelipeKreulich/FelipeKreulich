@@ -37,6 +37,7 @@ I'm a Full Stack Developer passionate about creating engaging and interactive di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" titl="Typescript" alt="Typescript" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" titl="Next" alt="Next" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" titl="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="40" height="40" />&nbsp;
 </div>
 
 ### 💥 My Stats :
