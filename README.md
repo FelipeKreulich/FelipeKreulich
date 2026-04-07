@@ -33,8 +33,9 @@ Hi! I'm **Felipe**, a fullstack developer passionate about building products tha
 
 <div align="center">
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKreulich&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeKreulich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6)
+[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKreulich&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)](https://github.com/FelipeKreulich)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeKreulich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6)](https://github.com/FelipeKreulich)
 
 </div>
 
